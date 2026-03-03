@@ -12,10 +12,6 @@ The frontend is located in the client directory, where we have our setup and con
 
 ## Environment Variables
 
-To run a local instance of the database and project, you will need to add the following environment variables to your .env file in the server directory.
-
-SECRET_SESSION = `KEY`
-
 To run an instance of the online database and project, you will need to add the following environment variables to your .env file in the server directory.
 
 ```
